@@ -108,3 +108,4 @@ if st.button("Translate Text"):
             st.error(f"Translation error: {e}")
     else:
         st.warning("⚠️ Please enter some text first.")
+
